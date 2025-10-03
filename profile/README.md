@@ -14,6 +14,9 @@ List of related websites describing the benchmarks and activities
   + Base dataset: https://eupp-benchmark.github.io/EUPPBench-doc/files/base_datasets.html
   + EUPPBench dataset: https://eupp-benchmark.github.io/EUPPBench-doc/files/EUPPBench_datasets.html
   + EUPreciPBench dataset: https://eupp-benchmark.github.io/EUPPBench-doc/files/EUPreciPBench_datasets.html
+* Datasets access:
+  + [Climetab plugin](https://github.com/EUPP-benchmark/climetlab-eumetnet-postprocessing-benchmark)
+  + [Intake catalogue](https://github.com/EUPP-benchmark/intake-eumetnet-postprocessing-benchmark)
 * [Internal management sharepoint](https://tlnt19059.sharepoint.com/sites/NWP-Cooperation-PostProcessing/) (access restricted)
 
 
