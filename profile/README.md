@@ -14,11 +14,11 @@ List of related websites describing the benchmarks and activities
   + Base dataset: https://eupp-benchmark.github.io/EUPPBench-doc/files/base_datasets.html
   + EUPPBench dataset: https://eupp-benchmark.github.io/EUPPBench-doc/files/EUPPBench_datasets.html
   + EUPreciPBench dataset: https://eupp-benchmark.github.io/EUPPBench-doc/files/EUPreciPBench_datasets.html
-* [Internal management sharepoint](https://tlnt19059.sharepoint.com/sites/NWP-Cooperation-PostProcessing/)
+* [Internal management sharepoint](https://tlnt19059.sharepoint.com/sites/NWP-Cooperation-PostProcessing/) (access restricted)
 
 
 Events
 ------
 
-* RenEUCast25 workshop website: https://events.spacepole.be/e/RenEUCast25
+* RenEUCast25 workshop website (December 25, Brussels): https://events.spacepole.be/e/RenEUCast25
 
