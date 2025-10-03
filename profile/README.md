@@ -20,5 +20,5 @@ List of related websites describing the benchmarks and activities
 Events
 ------
 
-* RenEUCast25 workshop website (December 25, Brussels): https://events.spacepole.be/e/RenEUCast25
+* RenEUCast25 workshop website (December 2025, Brussels): https://events.spacepole.be/e/RenEUCast25
 
